@@ -34,13 +34,6 @@ async function checkValid() {
             )
         )
     }
-    if (!config.tenorAPI) {
-        console.log(
-            chalk.bgYellowBright.black(
-                "[WARN] TENOR_API_KEY_WAS_NOT_FOUND"
-            )
-        )
-    }
     if (!config.DEFAULT_PREFIX) {
         throw ReferenceError(
             chalk.bgRedBright.black(
