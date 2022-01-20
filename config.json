@@ -2,7 +2,6 @@
 
     "OWNER_ID":"YOUR ID",
     "BOT_TOKEN": "BOT TOKEN",
-    "tenorAPI":"ZEEELJXAFQBN",
     "DEFAULT_PREFIX":"?",
     "mongoPass": "MONGO URI",
     "ERROR_LOGS_CHANNEL": "ERROR LOGS CHANNEL ID"
